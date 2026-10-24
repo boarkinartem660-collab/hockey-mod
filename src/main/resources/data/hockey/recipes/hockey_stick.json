@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["S ", "S ", "SP"],
+  "key": {"S": {"item": "minecraft:stick"}, "P": {"tag": "minecraft:planks"}},
+  "result": {"item": "hockey:hockey_stick"}
+}

@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item": "minecraft:coal"}, {"item": "minecraft:clay_ball"}],
+  "result": {"item": "hockey:puck", "count": 4}
+}

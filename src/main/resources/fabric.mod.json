@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "hockey",
+  "version": "${version}",
+  "name": "Hockey Mod",
+  "description": "Хоккей в Майнкрафте: клюшка, шайба и ворота.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.hockeymod.HockeyMod"],
+    "client": ["com.hockeymod.client.HockeyClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
